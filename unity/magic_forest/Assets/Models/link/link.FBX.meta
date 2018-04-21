@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: f46165b5de83ab6458bb5466dd14c3cf
+timeCreated: 1524294239
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: arm_guard
+    100002: boots
+    100004: chest
+    100006: chest_straps
+    100008: earrings
+    100010: ears_neck
+    100012: eyebrows
+    100014: face
+    100016: fannypack
+    100018: guantlets
+    100020: hair
+    100022: hat
+    100024: kilt
+    100026: left_eye
+    100028: left_hand
+    100030: legs
+    100032: //RootNode
+    100034: right_eye
+    100036: right_hand
+    100038: tunic
+    100040: underlayer
+    400000: arm_guard
+    400002: boots
+    400004: chest
+    400006: chest_straps
+    400008: earrings
+    400010: ears_neck
+    400012: eyebrows
+    400014: face
+    400016: fannypack
+    400018: guantlets
+    400020: hair
+    400022: hat
+    400024: kilt
+    400026: left_eye
+    400028: left_hand
+    400030: legs
+    400032: //RootNode
+    400034: right_eye
+    400036: right_hand
+    400038: tunic
+    400040: underlayer
+    2300000: arm_guard
+    2300002: boots
+    2300004: chest
+    2300006: chest_straps
+    2300008: earrings
+    2300010: ears_neck
+    2300012: eyebrows
+    2300014: face
+    2300016: fannypack
+    2300018: guantlets
+    2300020: hair
+    2300022: hat
+    2300024: kilt
+    2300026: left_eye
+    2300028: left_hand
+    2300030: legs
+    2300032: right_eye
+    2300034: right_hand
+    2300036: tunic
+    2300038: underlayer
+    3300000: arm_guard
+    3300002: boots
+    3300004: chest
+    3300006: chest_straps
+    3300008: earrings
+    3300010: ears_neck
+    3300012: eyebrows
+    3300014: face
+    3300016: fannypack
+    3300018: guantlets
+    3300020: hair
+    3300022: hat
+    3300024: kilt
+    3300026: left_eye
+    3300028: left_hand
+    3300030: legs
+    3300032: right_eye
+    3300034: right_hand
+    3300036: tunic
+    3300038: underlayer
+    4300000: guantlets
+    4300002: hat
+    4300004: fannypack
+    4300006: chest_straps
+    4300008: boots
+    4300010: ears_neck
+    4300012: earrings
+    4300014: chest
+    4300016: left_eye
+    4300018: right_eye
+    4300020: face
+    4300022: arm_guard
+    4300024: hair
+    4300026: left_hand
+    4300028: underlayer
+    4300030: kilt
+    4300032: legs
+    4300034: eyebrows
+    4300036: tunic
+    4300038: right_hand
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
